@@ -1,1 +1,0 @@
-# REST---GET-SDDC-Data-with-Python-
